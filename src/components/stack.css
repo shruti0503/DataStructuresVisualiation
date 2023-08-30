@@ -1,0 +1,19 @@
+.stack-cont {
+    display: flex;
+    flex-direction: column-reverse; /* Display elements in reverse order */
+    align-items: center; /* Center elements horizontally */
+    justify-content: flex-end; /* Align elements to the bottom */
+    border: 3px solid black;
+    height: fit-content;
+    width: 50px;
+    width: 50px;
+    margin-left: 47%;
+    padding: 1%;
+    border-radius: 10%;
+    font-size: xx-large;
+    background-color: aquamarine;
+   
+  }
+.stack-element{
+    padding: 7px;
+}
